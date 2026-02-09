@@ -12,11 +12,12 @@
             <pubDate>Mon, 09 Feb 2026 14:00:00 +0000</pubDate>
             <sparkle:version>1.0.2</sparkle:version>
             <enclosure 
-                url="COLOQUE_AQUI_O_LINK_DIRETO_DO_SEU_APK" 
+                url="https://raw.githubusercontent.com/alexkenner/solarisapp/refs/heads/main/app-release.apk" 
                 length="0" 
                 type="application/vnd.android.package-archive" 
                 sparkle:os="android" />
         </item>
     </channel>
 </rss>
+
 
