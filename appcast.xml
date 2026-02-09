@@ -3,14 +3,14 @@
     <channel>
         <title>Solaris App Updates</title>
         <item>
-            <title>Versão 1.0.2</title>
+            <title>Versão 1.2.0</title>
             <description>
-                - Melhorias na interface de Perfil2
+                - Melhorias na interface de Perfil
                 - Correção no modelo do inversor
                 - Sistema de atualização automática OTA
             </description>
             <pubDate>Mon, 09 Feb 2026 14:00:00 +0000</pubDate>
-            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:version>1.2.0</sparkle:version>
             <enclosure 
                 url="https://raw.githubusercontent.com/alexkenner/solarisapp/refs/heads/main/app-release.apk" 
                 length="0" 
@@ -19,5 +19,6 @@
         </item>
     </channel>
 </rss>
+
 
 
